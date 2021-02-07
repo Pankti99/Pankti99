@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Pankti👋
 
 <!--
 **Pankti99/Pankti99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-### Projects
+### ⚡ Projects
 
 [![Image Colorization](https://img.shields.io/badge/Image--Colorization-000?)](https://github.com/Pankti99/Image_colorization)
 [![Sudoku Solver](https://img.shields.io/badge/Sudoku--Solver-000?)](https://github.com/Pankti99/Sudoku_solver)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Pseudo coloring](https://img.shields.io/badge/Pseudo--coloring-000?)](https://github.com/Pankti99/Pseudo_coloring)
 
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankti-f-97687b144)
 

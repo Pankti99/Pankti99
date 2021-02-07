@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-<p  style = "padding-left:100px;"><a href="https://www.linkedin.com/in/pankti-f-97687b144"><img height="30" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png"></a></p>
+<p style =" padding-left: 150%;"><a href="https://www.linkedin.com/in/pankti-f-97687b144"><img height="30" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png"></a></p>
 

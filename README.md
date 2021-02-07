@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
 #### You can check my Blog on below links
 
-<a href="https://www.technodossier.com/image-colorization/">Image colorization </a>
-<a href="https://www.technodossier.com/online-video-calling-apps/"> Free Online Meeting and Video Calling Apps</a>
+✍️ <a href="https://www.technodossier.com/image-colorization/">Image colorization </a>
+
+✍️ <a href="https://www.technodossier.com/online-video-calling-apps/"> Free Online Meeting and Video Calling Apps</a>
 
 
 

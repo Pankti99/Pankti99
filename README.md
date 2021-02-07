@@ -1,6 +1,7 @@
 # Hey! I'm Pankti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
 
-![Header height ="20"](https://github.com/Pankti99/Pankti99/blob/main/images/space.gif)
+
+<img height="30" src="https://github.com/Pankti99/Pankti99/blob/main/images/space.gif">
 
 
 

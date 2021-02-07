@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 You can check my Blog on below links
 
-[Image colorization]<a href="https://www.technodossier.com/image-colorization/">
+<a href="https://www.technodossier.com/image-colorization/">Image colorization </a>
 
 
 

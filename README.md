@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankti-f-97687b144)
 <a href="https://www.linkedin.com/in/pankti-f-97687b144"><img height="30" src="https://www.seekpng.com/png/full/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"></a>
 

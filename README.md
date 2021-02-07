@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
+
 ### ⚡ Projects
 
 [![Image Colorization](https://img.shields.io/badge/Image--Colorization-000?)](https://github.com/Pankti99/Image_colorization)
@@ -27,18 +28,16 @@ Here are some ideas to get you started:
 [![Language Identifier](https://img.shields.io/badge/Language--Identifier-000?)](https://github.com/Pankti99/Language_Identifier)
 [![Pseudo coloring](https://img.shields.io/badge/Pseudo--coloring-000?)](https://github.com/Pankti99/Pseudo_coloring)
 
+
 ### 🌱 My Digital Garden
 
-<p font size="20px" You can check my Blog on below links </p>
+✍🏼 <a href="https://www.technodossier.com/image-colorization/">Image colorization </a>
 
-✍️ <a href="https://www.technodossier.com/image-colorization/">Image colorization </a>
-
-✍️ <a href="https://www.technodossier.com/online-video-calling-apps/"> Free Online Meeting and Video Calling Apps</a>
-
+✍🏼 <a href="https://www.technodossier.com/online-video-calling-apps/"> Free Online Meeting and Video Calling Apps</a>
 
 
 ### 📫 How to reach me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankti-f-97687b144)
-
+<a href="https://www.linkedin.com/in/pankti-f-97687b144"><img height="30" src="https://www.seekpng.com/png/full/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"></a>
 

@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🌱 My Digital Garden
 
-#### You can check my Blog on below links
+<p font size="20px" You can check my Blog on below links </p>
 
 ✍️ <a href="https://www.technodossier.com/image-colorization/">Image colorization </a>
 

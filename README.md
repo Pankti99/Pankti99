@@ -27,6 +27,13 @@ Here are some ideas to get you started:
 [![Language Identifier](https://img.shields.io/badge/Language--Identifier-000?)](https://github.com/Pankti99/Language_Identifier)
 [![Pseudo coloring](https://img.shields.io/badge/Pseudo--coloring-000?)](https://github.com/Pankti99/Pseudo_coloring)
 
+### 🌱 My Digital Garden
+
+You can check my Blog on below links
+
+[Image colorization]<a href="https://www.technodossier.com/image-colorization/">
+
+
 
 ### 📫 How to reach me
 

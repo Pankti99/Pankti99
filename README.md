@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Pseudo coloring](https://img.shields.io/badge/Pseudo--coloring-000?)](https://github.com/Pankti99/Pseudo_coloring)
 
 
-### Connect with me
+📫 How to reach me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankti-f-97687b144)
 

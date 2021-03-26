@@ -38,6 +38,8 @@
 
 ✍🏼 <a href="https://www.technodossier.com/online-video-calling-apps/"> Free Online Meeting and Video Calling Apps</a>
 
+✍🏼 <a href="https://www.researchgate.net/publication/349302947_Image_Colorization"> Image Colorization Paper </a>
+
 
 ### 📫 How to reach me
 
